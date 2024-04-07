@@ -2,7 +2,9 @@
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
+- Pokemon-API
 
 ---
 
